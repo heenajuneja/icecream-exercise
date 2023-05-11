@@ -1,0 +1,82 @@
+<main>
+  <section class="hero">
+    <h1><strong>About Us</strong></h1>
+  </section>
+  <section class="content">
+    <h2>Our Story</h2>
+    <p>
+      At Yummy Tummy Icecream, we're passionate about making the best ice cream
+      possible. It all started in 2023 when our founder, John Smith, started
+      experimenting with different ingredients and techniques to create truly
+      unique ice cream flavors. Over the months, we've perfected our recipes and
+      techniques, using only the best ingredients to create the creamiest,
+      tastiest ice cream you'll ever taste.
+    </p>
+    <p>
+      <img
+        src="https://tumagazin.rs/wp-content/uploads/2021/02/Nemci-prvi-u-Evropi-po-proizvodnji-sladoleda.jpg"
+        alt=""
+        width="1200"
+        height="800"
+      />
+    </p>
+    <h2>Our Mission</h2>
+    <p>
+      Our mission is simple: to make the best ice cream possible. We believe
+      that the key to great ice cream is in the ingredients, so we source only
+      the highest quality dairy products, fruits, nuts, and other ingredients
+      from local and organic farms whenever possible. We also believe in giving
+      back to our community, so we partner with local charities and
+      organizations to support their efforts and give back to those in need.
+    </p>
+    <p>
+      <img
+        src="https://bookrclass.com/wp-content/uploads/2022/03/Ice-Cream-Mission.jpg"
+        alt=""
+        width="1200"
+        height="800"
+      />
+    </p>
+    <h2>Our Team</h2>
+    <p>
+      Our team is made up of passionate ice cream lovers who are dedicated to
+      making the best ice cream possible. From our expert ice cream makers to
+      our friendly scoopers, everyone at Icecream is committed to providing you
+      with a delicious and unforgettable ice cream experience.
+    </p>
+  </section>
+</main>
+<footer>
+  <p>&copy; 2023 Yummy Tummy Icecream. All rights reserved.</p>
+</footer>
+<p>&nbsp;</p>
+
+<head>
+  <meta charset="UTF-8" />
+  <title>My Page</title>
+
+  <style>
+        body {
+          background-color: #f5f5f5;
+          font-family: Arial, sans-serif;
+        }
+
+        h1 {
+          color: navy;
+          text-align: center;
+        }
+        h2 {
+      text-align: center;
+      font-weight: bold;
+      color: pink;
+    }
+
+    body {
+      text-align: center;
+      font-weight: bold;
+      font-family: cursive;
+      font-size: 22px;
+      color: gray;
+    }
+  </style>
+</head>
